@@ -1,8 +1,7 @@
 Assignment Result: 14/14
 
 # Goal:
--------
-- to design and implement a command line Email system event modeller and intrusion detection system in accordance with the system description below.
+to design and implement a command line Email system event modeller and intrusion detection system in accordance with the system description below.
 
 ==================
 System description
