@@ -1,11 +1,9 @@
-Assignment Result: 14/14
+Grade: 14/14
 
 # Goal:
 to design and implement a command line Email system event modeller and intrusion detection system in accordance with the system description below.
 
-==================
-System description
-==================
+
 Initial Input
 --------------
 During the execution of the program, an Event file and a Stats file will be requested, along with the number of Days.
@@ -84,7 +82,6 @@ Once the alert engine part has finished the program returns to the start of this
 
 
 # Compilation Instructions
---------------------------
 open up a terminal and run the program by typing the following into the command line:
 python3 main.py
 
